@@ -1,12 +1,6 @@
-namespace Ucu.Poo.RoleplayGame;
+namespace Library.Items;
 
-public class Sword
+public class Sword : IIAtaqueNoMag
 {
-    public int AttackValue 
-    {
-        get
-        {
-            return 20;
-        } 
-    }
+    
 }

@@ -1,6 +1,6 @@
 namespace Library.Items;
 
-public class Axe : IIAtaqueNoMag
+public class Libro
 {
     
 }

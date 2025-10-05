@@ -1,12 +1,6 @@
-namespace Ucu.Poo.RoleplayGame;
+namespace Library.Items;
 
-public class Shield
+public class Shield : IIDefensaNoMag
 {
-    public int DefenseValue
-    {
-        get
-        {
-            return 14;
-        }
-    }
+    
 }

@@ -1,20 +1,6 @@
-namespace Ucu.Poo.RoleplayGame;
+namespace Library.Items;
 
-public class Staff
+public class Staff : IIAtaqueMag, IIDefensaMag
 {
-    public int AttackValue 
-    {
-        get
-        {
-            return 100;
-        } 
-    }
-
-    public int DefenseValue
-    {
-        get
-        {
-            return 100;
-        }
-    }
+    
 }
