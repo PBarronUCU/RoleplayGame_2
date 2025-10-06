@@ -1,4 +1,5 @@
 namespace Library.Characters;
+
 public class Enano : IPersonaje //Se indica que la clase Enano implementa la interfaz IPersonaje.
 {
     public string Nombre {get; set;} //El nombre.
